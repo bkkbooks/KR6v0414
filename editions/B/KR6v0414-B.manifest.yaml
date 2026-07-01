@@ -1,0 +1,196 @@
+canonical_identifier: bkk:krp/KR6v0414/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0414/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 神會和尚語錄的第三個敦煌寫本：南陽和尚問答雜徵義（劉澄集）
+  identifiers:
+    krp: KR6v0414
+    cbeta: B25n0143
+    cbeta_old_id: B25n0143
+    authorityid: CA0006228
+    json_key: B0143
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B25/B25n0143.xml
+    old_id: B25n0143
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0414_001-B.yaml, hash: 'sha256:2aa04320a6ef1a73bc4452b6c9203e33d570b6cd4b5039eeb44d9232b17c687e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0414_001-B.markers.yaml, hash: 'sha256:833a18ece5629422c91e63583327d623bb711fa644c0b56f2baa348915067131'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 16839
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-2
+    span:
+    - body
+    - 132
+    - 132
+  label: 一、神會語錄的三個本子的比勘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-3
+    span:
+    - body
+    - 5234
+    - 5234
+  label: 二、南陽和尚問答雜徵義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-4
+    span:
+    - body
+    - 5247
+    - 5247
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-5
+    span:
+    - body
+    - 5401
+    - 5401
+  label: 本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-6
+    span:
+    - body
+    - 9879
+    - 9879
+  label: 三、神會和尚的五更轉曲子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-7
+    span:
+    - body
+    - 10569
+    - 10569
+  label: （一）荷澤寺神會和尚五更轉兩首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-8
+    span:
+    - body
+    - 11951
+    - 11951
+  label: （二）五更轉一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-9
+    span:
+    - body
+    - 12125
+    - 12125
+  label: （三）五更轉兩本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-10
+    span:
+    - body
+    - 12549
+    - 12549
+  label: （四）大乘五更轉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-11
+    span:
+    - body
+    - 12894
+    - 12894
+  label: （五）南宗定邪正五更轉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-12
+    span:
+    - body
+    - 13238
+    - 13238
+  label: （六）北平圖書館的兩個敦煌本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-13
+    span:
+    - body
+    - 14028
+    - 14028
+  label: （七）校寫「五更轉」後記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-14
+    span:
+    - body
+    - 16839
+    - 16839
+  label: 附圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-15
+    span:
+    - body
+    - 16839
+    - 16839
+  label: 倫敦大英博物院藏的「荷澤和尚五更轉」敦煌寫本照片
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0414_B_001-mulu-16
+    span:
+    - body
+    - 16839
+    - 16839
+  label: 倫敦大英博物院藏的「南陽和尚問答雜義」敦煌寫本照片
+  type: mulu
+  level: 1
+hash: sha256:d08e5e4f61d0ce9ed0d5be0746f3584b97cfcff227cf5a2a18ec63c4a890dbd5
