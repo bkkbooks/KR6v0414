@@ -18,9 +18,9 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 1, filename: KR6v0414_001.yaml, hash: 'sha256:6360cebd0cc4d15a451fc5ebe11b37eefb1ad84db734c03935735df5d78d4f6c'}
+  - {seq: 1, filename: KR6v0414_001.yaml, hash: 'sha256:2aa04320a6ef1a73bc4452b6c9203e33d570b6cd4b5039eeb44d9232b17c687e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0414_001.markers.yaml, hash: 'sha256:26296a399e31d237b17d75029f72b9f5b1dd3b47e6a27d5973541b294d3749e1'}
+  - {seq: 1, role: markers, filename: assets/KR6v0414_001.markers.yaml, hash: 'sha256:b630fa54137640f6cb0c0ba08cf68622c367939aa3dade89ee78d5b46f7aab64'}
 table_of_contents:
 - ref:
     seq: 1
@@ -192,7 +192,4 @@ table_of_contents:
   label: 倫敦大英博物院藏的「南陽和尚問答雜義」敦煌寫本照片
   type: mulu
   level: 1
-hash: sha256:2f0090431f622727a2fe9a649b28a334cdb62ba4916089e11c20072682d90a12
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c3eecc2bd9180248e0282cdd97904bdd9019b5ce3464e234231162551f81d1b5
