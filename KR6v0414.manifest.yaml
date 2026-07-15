@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0414/v1
 canonical_location: https://kanripo.org/bkk/KR6v0414/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 神會和尚語錄的第三個敦煌寫本：南陽和尚問答雜徵義（劉澄集）
   source:
@@ -18,9 +18,9 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 1, filename: KR6v0414_001.yaml, hash: 'sha256:2aa04320a6ef1a73bc4452b6c9203e33d570b6cd4b5039eeb44d9232b17c687e'}
+  - {seq: 1, filename: KR6v0414_001.yaml, hash: 'sha256:ed2d68591fc78485bafff5e17bb91013360c4023c2be64488b02a4df93fed42c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0414_001.markers.yaml, hash: 'sha256:b630fa54137640f6cb0c0ba08cf68622c367939aa3dade89ee78d5b46f7aab64'}
+  - {seq: 1, role: markers, filename: assets/KR6v0414_001.markers.yaml, hash: 'sha256:3ccde7008b014815489d7ed485fe2c7358984c580f92a60578c1befdbb77fd08'}
 table_of_contents:
 - ref:
     seq: 1
@@ -192,4 +192,7 @@ table_of_contents:
   label: 倫敦大英博物院藏的「南陽和尚問答雜義」敦煌寫本照片
   type: mulu
   level: 1
-hash: sha256:c3eecc2bd9180248e0282cdd97904bdd9019b5ce3464e234231162551f81d1b5
+hash: sha256:cc56453a984e2996e8da7cd83b8f75c0f94f25d67433b70e97f234ea55033044
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
